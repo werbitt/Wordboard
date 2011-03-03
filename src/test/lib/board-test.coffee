@@ -12,4 +12,4 @@ vows
 			'has an array of cells': (board) ->
 				assert.isArray board.cells
 
-	.run()
+	.export(module)

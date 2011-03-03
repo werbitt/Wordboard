@@ -1,2 +1,0 @@
-class exports.Board
-	cells: []
